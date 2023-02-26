@@ -1,9 +1,12 @@
 <template>
     <div>
-     <p>我是移动端</p>
+      <navigationVue />
     </div>
   </template>
   <script setup>
+
+import navigationVue  from './components/navigation/index.vue'
+
 
   </script>
   
